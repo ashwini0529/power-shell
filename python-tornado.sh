@@ -2,17 +2,17 @@
 
 
 #Install PIP if not installed
-
-sudo apt-get install python-pip
+echo '************Installing pip************'
+sudo apt-get install python-pip -y
 
 #install tornado
-
-sudo pip install tornado
+echo '************Installing Tornado************'
+sudo pip install tornado -y
 
 #install pymongo
-
-sudo pip install pymongo
+echo '************Installing PyMongo************'
+sudo pip install pymongo -y
 
 #install motor
-
-sudo pip install motor
+echo '************Installing Motor************'
+sudo pip install motor -y
