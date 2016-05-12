@@ -3,6 +3,7 @@ A collection of utility shell scripts to make a developer's job easy
 
 ##How to Install
 ####Clone this repository locally or download it as zip.
+Navigate to the directory that you cloned or downloaded this repository and execute the following commands
 
 For Android Studio
 ```
