@@ -16,4 +16,4 @@ For Python - Tornado
 ```
 sh python-tornado.sh
 ```
-##If you would like to this repository, please send us a pull request. 
+##If you would like to contribute to this repository, please send us your changes as a pull request. 
