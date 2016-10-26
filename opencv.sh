@@ -3,8 +3,9 @@
 # Opencv install steps 
 
 # @FILESOURCE opencv.sh
-# @AUTHOR Mehul Ahuja
 # @VERSION 1.0.0
+# Script originally written by - 
+# olopotd
 
 # __BEGIN_MAIN__
 
