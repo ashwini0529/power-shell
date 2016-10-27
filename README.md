@@ -13,8 +13,12 @@ For LAMP stack
 ```
 sh lamp-stack-14-04.sh
 ```
-For Python - Tornado 
+For Python - Tornado
 ```
 sh python-tornado.sh
 ```
-##If you would like to contribute to this repository, please send us your changes as a pull request. 
+For Django framework
+```
+sh django.sh
+```
+##If you would like to contribute to this repository, please send us your changes as a pull request.
